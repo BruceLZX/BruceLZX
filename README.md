@@ -38,7 +38,7 @@ CS @ USC • Builder mindset • Keep it simple & fun
 
 ## 📫 联系 / Contact
 - Website / 个人主页: https://brucelzx.github.io/
-- Email: brucel@usc.edu
+- Email: bruceli@ucla.edu
 
 ---
 

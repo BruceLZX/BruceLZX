@@ -4,8 +4,8 @@
 
 <img src="./123.jpg" alt="Horse meme" width="360" />
 
-**马年本命年限定版 / Year of the Horse vibe** ✨  
-CS @ USC • Builder mindset • Keep it simple & fun
+**马年本命限定版 / Year of the Horse vibe** ✨  
+CS @ UCLA • Builder mindset • Keep it simple & fun
 
 </div>
 
@@ -19,9 +19,10 @@ CS @ USC • Builder mindset • Keep it simple & fun
 ---
 
 ## 🧩 我在这里会放什么 / What you’ll see here
-- 练手的小项目 / small experiments
+- 练手的小项目 / small experiments & projects
 - 学习笔记 / notes
 - 一些工具和脚本 / tools & scripts
+- 一些论文代码 / some papers' code
 - （以及偶尔的抽象整活）/ (and some occasional memes :D)
 
 ---
